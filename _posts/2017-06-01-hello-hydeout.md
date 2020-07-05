@@ -23,7 +23,7 @@ Hydeout replaces Hyde's class-based theming with the use
 of the following SASS variables:
 
 ```scss
-$sidebar-bg-color: #202020 !default;
+$sidebar-bg-color: #f96332 !default;
 $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
